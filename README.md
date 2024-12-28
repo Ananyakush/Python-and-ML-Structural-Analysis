@@ -2,7 +2,7 @@
 
 ### Store Sales Analysis
 This project demonstrates Structural and Descriptive Analysis for a store sales dataset.
-## Dataset Description
+### Dataset Description
 The dataset contains information about store performance, including metrics such as store size, items available, daily customer count, and total store sales. The dataset is structured as follows:
 
 ### Feature Name	Description
